@@ -104,3 +104,5 @@ lightning_logs
 
 # tox logs
 *.tox
+
+.dbx/sync
